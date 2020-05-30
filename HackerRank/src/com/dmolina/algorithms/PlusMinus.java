@@ -1,4 +1,3 @@
-//15 min
 package com.dmolina.algorithms;
 
 public class PlusMinus {

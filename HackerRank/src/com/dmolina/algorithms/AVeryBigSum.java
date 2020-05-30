@@ -1,4 +1,3 @@
-// 10 minutes
 package com.dmolina.algorithms;
 
 public class AVeryBigSum {

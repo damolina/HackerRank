@@ -1,4 +1,3 @@
-//47 minutes
 package com.dmolina.algorithms;
 import java.util.ArrayList;
 import java.util.Arrays;

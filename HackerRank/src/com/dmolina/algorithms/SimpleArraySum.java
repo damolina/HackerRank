@@ -1,4 +1,3 @@
-// 17 minutes
 package com.dmolina.algorithms;
 
 public class SimpleArraySum {
